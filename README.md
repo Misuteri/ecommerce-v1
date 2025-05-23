@@ -59,7 +59,7 @@ npm install
 3. Configuration
 - Créer un fichier `.env` dans le dossier backend avec :
 ```
-PORT=5000
+PORT=3001
 MONGO_URI=votre_uri_mongodb
 JWT_SECRET=votre_secret_jwt
 JWT_EXPIRE=24h
